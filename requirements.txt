@@ -5,3 +5,4 @@ numpy
 scipy
 plotly
 streamlit-option-menu
+streamlit-extras
